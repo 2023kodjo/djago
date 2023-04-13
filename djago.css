@@ -79,7 +79,7 @@ body{
         border-bottom-right-radius: 30px;
         border-bottom-left-radius: 30px;
     }
-     .hrA{
+    .hrA{
         width: 32px;
         border-width: 3px;
         color: rgb(206, 4, 4);
@@ -88,6 +88,8 @@ body{
         top: -40px;
         left: 270px;
     }
+
+    
 
     .sd{
     height: 500px;
@@ -294,6 +296,25 @@ top: 120px;
     position: relative;
     left: 580px;
     top: 50px;
+}
+.s3 h4{
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    position: relative;
+    left: 20px;
+    top: 50px;
+}
+.s3 p{
+    width: 1200px;
+    font-size: 20px;
+    height: 40px;
+    background-color: white;
+    color: black;
+    padding-left: 70px;
+    position: relative;
+    left: 110px;
+    top: 150px;
 }
 .s4{
     width: auto;
@@ -590,7 +611,138 @@ cursor: pointer;
 
 
         
- a propos
+ A_PROPOS
+
  .s2a {
     background-color: #EC6D0F;
  }
+ .menu .accueilP {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.menu .P {
+    text-decoration: none;
+    color: rgb(206, 4, 4);
+    font-weight: bold;
+}
+
+.cadreP{
+    background-color: #975CB1;
+    opacity: 20%;
+    width: 140px;
+    height: 40px;
+    position: relative;
+    top: -92px;
+    left: 410px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.hrP{
+    width: 32px;
+    border-width: 3px;
+    color: rgb(206, 4, 4);
+    opacity: .95;
+    position: relative;
+    top: -40px;
+    left: 430px;
+}
+
+NOTRE EXPERTISE 
+
+.menu .accueilN {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.menu .N{
+    text-decoration: none;
+    color: rgb(206, 4, 4);
+    font-weight: bold;
+}
+
+.cadreN{
+    background-color: #975CB1;
+    opacity: 20%;
+    width: 140px;
+    height: 40px;
+    position: relative;
+    top: -92px;
+    left: 590px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.hrN{
+    width: 32px;
+    border-width: 3px;
+    color: rgb(206, 4, 4);
+    opacity: .95;
+    position: relative;
+    top: -40px;
+    left: 610px;
+}
+
+SOLUTION
+.menu .accueilS {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.menu .S{
+    text-decoration: none;
+    color: rgb(206, 4, 4);
+    font-weight: bold;
+}
+
+.cadreS{
+    background-color: #975CB1;
+    opacity: 20%;
+    width: 140px;
+    height: 40px;
+    position: relative;
+    top: -92px;
+    left: 780px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.hrS{
+    width: 32px;
+    border-width: 3px;
+    color: rgb(206, 4, 4);
+    opacity: .95;
+    position: relative;
+    top: -40px;
+    left: 800px;
+}
+CONTACT
+.menu .accueilC {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.menu .C{
+    text-decoration: none;
+    color: rgb(206, 4, 4);
+    font-weight: bold;
+}
+
+.cadreC{
+    background-color: #975CB1;
+    opacity: 20%;
+    width: 140px;
+    height: 40px;
+    position: relative;
+    top: -92px;
+    left: 940px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.hrC{
+    width: 32px;
+    border-width: 3px;
+    color: rgb(206, 4, 4);
+    opacity: .95;
+    position: relative;
+    top: -40px;
+    left: 960px;
+}
