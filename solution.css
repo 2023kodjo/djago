@@ -1,0 +1,155 @@
+html{
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 100%;
+    height: 100%;
+    
+}
+.header{
+    background-color: #975CB1;
+    height: 90px;
+}
+.img2{
+margin-left: 1100px;
+margin-top: -115px;
+}
+.img1{
+    margin-left: 135px;
+    margin-top: -72.5px;
+}
+.dj{
+    color:white;
+    margin-left: 200px;
+} 
+.ul1{
+    display: flex;
+    list-style: none;
+    margin-left: 250px;
+    margin-top: -20px;
+}
+.ul1 li{
+    width: 145px;
+}
+.ol{
+    margin-top: 35px;
+    width: 100%;
+    height: 100px;
+}
+.pp{
+    background-color:#975CB1;
+    height: 200px;
+}
+.ft{
+    background-color:#B78DC9;
+    width: 650px;
+    padding-left: 190px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-top: 20px;
+    color: white;
+}
+.vb{
+    padding-left: 190px;
+    color: white;
+}
+.ji{
+    margin-top: -65px;
+    margin-right: 400px;
+    height: 80px; width: 120px;
+}
+.jk{
+    background-color: #8F49AD;
+    height: 500px;
+}
+.lll{
+    color: white;
+    text-align: center;
+    padding-top:50px ;
+}
+.yu{
+    display: flex;
+    list-style: none;
+    margin-top: 50px;
+}
+.toi1{
+    padding-left: 210px;
+}
+.toi2{
+padding-left: 200px;
+}
+.toi3{
+padding-left: 85px;
+}
+.toi11{
+margin-left: 280px;
+background-color: #B78DC9;
+height: 35px;
+width: 150px;
+text-align: center;
+padding-top: 5px;
+}
+.toi22{
+margin-left: 285px;
+margin-top: 35px;
+background-color: #B70A1A;
+height: 35px;
+width: 150px;
+text-align: center;
+padding-top: 5px;
+}
+.toi33{
+margin-left: 110px;
+background-color: #B78DC9;
+height: 35px;
+width: 150px;
+text-align: center;
+padding-top: 5px;
+}
+.lm{
+    background-color: #975CB1;
+    height: 200px;
+    text-align: center;
+    color: white;
+}
+.ff1{
+    background-color: #8F49AD;
+    width: 250px; height: 35px;
+    /* text-align: center; */
+    margin-left: 550px;
+    border-radius: 50px;
+}
+.ff2{
+    background-color: #3B5892;
+    width: 600px; height: 35px;
+    text-align: center;
+    margin-left: 360px;
+}
+.tt{
+    background-color: #800712;
+    height: 125px;
+}
+.ttm{
+    background-color: #B70A1A;
+    height: 625px;
+}
+.nn{
+    height: 600px;
+    width: 1000px;
+    padding-left: 300px;
+    padding-top: 35px;
+}
+.jik{
+    margin-top: 40px;
+    background-color: #CD545F;
+    width: 500px;
+    margin-left: 400px;
+}
+.hu{
+    color: white;
+    font-size: 20px;
+    background-color: #800712;
+    height: 175px;
+}
+.lk{
+    border-color: none;
+}
